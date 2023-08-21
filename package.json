@@ -15,7 +15,7 @@
     "lyra": "github:TryGhost/lyra#main",
     "headline": "github:TryGhost/headline#main",
     "ruby": "github:TryGhost/ruby#main",
-    "ease": "github:TryGhost/ease#main",
+    "ease": "github:OptimalPros/OptimalBlogTheme#main",
     "mysql2": "2.3.3"
   },
   "scripts": {
